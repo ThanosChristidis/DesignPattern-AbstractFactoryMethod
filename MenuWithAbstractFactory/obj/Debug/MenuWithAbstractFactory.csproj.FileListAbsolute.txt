@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MenuWithAbstractFactory\MenuWithAbstractFactory\bin\Debug\MenuWithAbstractFactory.exe.config
+C:\Users\User\source\repos\MenuWithAbstractFactory\MenuWithAbstractFactory\bin\Debug\MenuWithAbstractFactory.exe
+C:\Users\User\source\repos\MenuWithAbstractFactory\MenuWithAbstractFactory\bin\Debug\MenuWithAbstractFactory.pdb
+C:\Users\User\source\repos\MenuWithAbstractFactory\MenuWithAbstractFactory\obj\Debug\MenuWithAbstractFactory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MenuWithAbstractFactory\MenuWithAbstractFactory\obj\Debug\MenuWithAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MenuWithAbstractFactory\MenuWithAbstractFactory\obj\Debug\MenuWithAbstractFactory.exe
+C:\Users\User\source\repos\MenuWithAbstractFactory\MenuWithAbstractFactory\obj\Debug\MenuWithAbstractFactory.pdb
